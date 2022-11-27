@@ -1,20 +1,33 @@
-## :clipboard: Basic Info
-   #### :bulb: Project Name: [***Coding Bootcamp Testimonials Slider***](https://a7m3d000.github.io/H--Coding-Bootcamp-Testimonials-Slider/)
-   #### :bulb: Project Type: ***Challenge*** from ***Front End Mentor*** Website 
-   #### :bulb: Project Level: ***Heigh*** -> ***[ H ]***
-   
-   #### :bulb: Challenge URL: [***Sunnyside Agency Landing Page***](https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
-   
----
-
-## :clipboard: Basic Languages
- - [x] HTML
- - [x] CSS
- - [x] JavaScript
+# Testimonials Page
 
 ---
 
-## :clipboard: Frameworks
- :pushpin: Frameworks
-   - [x] React
+# Description
 
+This is a [**Testimonials Page**](https://testimonials-p.vercel.app/) Website.
+
+---
+
+# App Features
+
+- Responsive
+- Nice Design
+- Speed & Good Performance
+
+---
+
+# Languages & Technologies
+
+### Languages used in this Website:
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="drawing" width="48" height="48"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=ar"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="drawing" width="48" height="48"/></a>
+  <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png" width="48" height="48"/></a>
+</div>
+
+---
+
+# Website Screenshot
+
+![Testimonials Page]()
