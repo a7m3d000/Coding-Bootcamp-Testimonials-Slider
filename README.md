@@ -1,10 +1,10 @@
-# Testimonials Page
+# Testimonials Slider
 
 ---
 
 # Description
 
-This is a [**Testimonials Page**](https://testimonials-p.vercel.app/) Website.
+This is a [**Testimonials Slider**](https://testimonials-p.vercel.app/) Website.
 
 ---
 
